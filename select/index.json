@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Gotta Go",
+  "base_artist": "チョンハ",
+  "createdAt": "2025-12-30T16:14:12.929251Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gotta Go Hard (feat. Lil Wayne)",
+      "artist": "Nicki Minaj feat. Lil Wayne",
+      "has_synced": false,
+      "path": "select/01_Gotta_Go_Hard_(feat._Lil_Wayne)_Nicki_Minaj_feat._Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If You Gotta Go, Go Now",
+      "artist": "Manfred Mann",
+      "has_synced": true,
+      "path": "select/02_If_You_Gotta_Go,_Go_Now_Manfred_Mann.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If I Gotta Go",
+      "artist": "A Boogie wit da Hoodie",
+      "has_synced": true,
+      "path": "select/03_If_I_Gotta_Go_A_Boogie_wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gotta Go Home",
+      "artist": "Boney M.",
+      "has_synced": true,
+      "path": "select/04_Gotta_Go_Home_Boney_M..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Gotta Go Home",
+      "artist": "DMX feat. Monica",
+      "has_synced": true,
+      "path": "select/05_Don't_Gotta_Go_Home_DMX_feat._Monica.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Gotta Go Home (feat. Monica)",
+      "artist": "DMX",
+      "has_synced": true,
+      "path": "select/06_Don't_Gotta_Go_Home_(feat._Monica)_DMX.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gotta Go (Skit)",
+      "artist": "DMX",
+      "has_synced": false,
+      "path": "select/07_Gotta_Go_(Skit)_DMX.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gotta Go",
+      "artist": "Agnostic Front",
+      "has_synced": true,
+      "path": "select/08_Gotta_Go_Agnostic_Front.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gotta Go (Spanish version)",
+      "artist": "Agnostic Front",
+      "has_synced": true,
+      "path": "select/09_Gotta_Go_(Spanish_version)_Agnostic_Front.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Gotta Go Now",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/10_I_Gotta_Go_Now_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gotta Go",
+      "artist": "Donatella Rettore",
+      "has_synced": false,
+      "path": "select/11_Gotta_Go_Donatella_Rettore.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gotta Go",
+      "artist": "Rettore",
+      "has_synced": false,
+      "path": "select/12_Gotta_Go_Rettore.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gotta Go (Gola giù-liva)",
+      "artist": "Rettore",
+      "has_synced": true,
+      "path": "select/13_Gotta_Go_(Gola_giù-liva)_Rettore.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Too Hip Gotta Go",
+      "artist": "Stray Cats",
+      "has_synced": false,
+      "path": "select/14_Too_Hip_Gotta_Go_Stray_Cats.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Too Hip, Gotta Go",
+      "artist": "Stray Cats",
+      "has_synced": true,
+      "path": "select/15_Too_Hip,_Gotta_Go_Stray_Cats.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Too Hip, Gotta Go",
+      "artist": "Stray Cats",
+      "has_synced": true,
+      "path": "select/16_Too_Hip,_Gotta_Go_Stray_Cats.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Gotta Go (Can't Wage a War)",
+      "artist": "Kingdom Come",
+      "has_synced": true,
+      "path": "select/17_Gotta_Go_(Can't_Wage_a_War)_Kingdom_Come.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gotta Go",
+      "artist": "CHUNG HA",
+      "has_synced": false,
+      "path": "select/pl_01_Gotta_Go_CHUNG_HA.txt"
+    }
+  ]
+}
